@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimarcaltech&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMarcalTech)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMarcalTech&hide=scss,html&langs_count=8)
 
 ### Tecnologias:
 
